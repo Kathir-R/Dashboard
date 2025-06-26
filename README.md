@@ -1,4 +1,4 @@
-# Dashboard Flutter App
+# Dashboard Flutter 
 
 A simple dashboard app built with **Flutter** that displays sales and task data using beautiful charts and legends. Data is fetched live from **Firebase Firestore** and visualized using the [`fl_chart`](https://pub.dev/packages/fl_chart) package.
 
@@ -13,7 +13,7 @@ A simple dashboard app built with **Flutter** that displays sales and task data 
 
 | Sales Chart with Legend | Tasks Pie Chart with Legend |
 |------------------------|----------------------------|
-| ![Sales Legend](https://i.imgur.com/your_sales_legend.png) | ![Tasks Legend](https://i.imgur.com/your_tasks_legend.png) |
+| ![image](https://github.com/user-attachments/assets/bd395e86-d275-4b43-bf5b-d69ec06037b0)| ![image](https://github.com/user-attachments/assets/f2735666-5cf8-4c3f-b3b2-4d9bd788ce4b)|
 
 ## Getting Started
 
